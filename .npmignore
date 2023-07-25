@@ -1,0 +1,8 @@
+# .npmignore
+.idea/
+/.idea
+/dist/
+/logs/
+/test/logs/
+.gitattributes
+Gruntfile.js

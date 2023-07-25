@@ -1,0 +1,27 @@
+{
+  "name": "sungole-excel",
+  "version": "0.0.1",
+  "description": "Export data to excel file",
+  "main": "",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "sungole",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.15.0",
+    "ejsexcel": "^3.5.2",
+    "xls-to-json": "^0.4.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "mocha": "^10.2.0",
+    "nyc": "^15.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flashcloud/sungole-excel.git"
+  }  
+}
